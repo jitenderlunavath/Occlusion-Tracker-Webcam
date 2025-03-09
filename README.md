@@ -1,4 +1,4 @@
-# Occlusion-Tracker-Webcam
+# Occlusion-Tracker
 
 This project focuses on object tracking through occlusion, allowing users to view live tracking using a webcam or camera device.
 
